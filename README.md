@@ -9,8 +9,8 @@
 
 ## 🚀 What It Does
 
-Paste in an Upwork job description.  
-The app takes that input and feeds it into a carefully crafted ChatGPT prompt using GPT-4o-mini, returning a proposal tailored to that specific gig.
+As you look through Upwork and you find a job you like, you copy the job description and paste it into the interface. 
+The app then takes that input and feeds it into a pre-engineered ChatGPT prompt (using GPT-4o-mini), matches it to your resume, and returns a proposal tailored to that specific gig.
 
 Whether you're applying for data roles, prompt engineering gigs, or AI-related jobs — this tool gets you started faster with more targeted, relevant language.
 
